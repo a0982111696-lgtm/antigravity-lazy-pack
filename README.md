@@ -4,14 +4,14 @@
 
 ## 目前檔案
 
-- `09-AntiGravity專屬懶人包.md`：主懶人包，整理 NotebookLM、Firebase、GitHub 與開工 / 收工 / 新專案初始化流程；Obsidian 只保留為人工專案筆記，不再安裝 MCPVault。
+- `09-AntiGravity專屬懶人包.md`：主懶人包，整理 NotebookLM、Firebase、GitHub、Obsidian 與開工 / 收工 / 新專案初始化流程。
 - `.gitignore`：排除本機設定、NotebookLM 匯出、生成圖片、測試 app、API key 與暫存資料。
 
 ## 使用方式
 
 1. 開啟 `09-AntiGravity專屬懶人包.md`。
 2. 把文件內容交給 Anti-Gravity 或 AI 編碼助理。
-3. 依序完成環境檢查、OAuth 登入、NotebookLM / Firebase MCP 設定與工作流程設定。
+3. 依序完成環境檢查、OAuth 登入、MCP 設定與工作流程設定。
 
 ## 安全原則
 
